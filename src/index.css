@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply px-4 bg-gradient-to-r from-green-100 to-blue-100;
+  }
+}
