@@ -9,7 +9,7 @@ GraphQl, React, Redux toolkit, Apollo/client, tailwind and more...
 
 ### Design:
 
-![folders](https://i.imgur.com/k9JWvtF.png)
+![folders](https://i.imgur.com/4rKss0d.png)
 
 ### Explaining some parts of the code:
 
