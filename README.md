@@ -3,7 +3,7 @@
 Well, besides the silly name of the app, let me explain what I did exactly via this section.
 
 First of all, you may access it from here:
-https://gentle-lebkuchen-8f9840.netlify.app/
+https://mellifluous-kelpie-4b2563.netlify.app/
 I used mainly these packages in order to make things work:
 GraphQl, React, Redux toolkit, Apollo/client, tailwind and more...
 
